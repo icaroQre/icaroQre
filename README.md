@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <div style="display: inline_block">
+  <div style="display: flex">
     <a href="https://github.com/icaroQre">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaroQre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroQre&layout=compact&langs_count=7&theme=dark"/>
