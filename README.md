@@ -1,4 +1,4 @@
-## Olá! Meu nome é Ícaro Queiroz ⚡
+## Olá! Eu sou o Ícaro Queiroz ⚡
 ### Estudante de Ciência da Computação pela UENP
 
   <div align="center">
