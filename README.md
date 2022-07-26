@@ -12,6 +12,7 @@
     <img align="center" alt="Icaro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Icaro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" alt="Icaro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    Currently learning 🌱
     <img align="right" alt="boo-gif" height= "200" src="https://i.giphy.com/media/l41lZuDtMj71VOHxS/giphy.webp">
   </div> 
   
