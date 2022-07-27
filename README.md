@@ -7,17 +7,13 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroQre&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Icaro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Icaro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Icaro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  </div> 
-  
-   <div style="display: inline_block"><br>
-    <p style="text-decoration: none;"> <b>Currently learning</b> 🌱</p> <br>
-    <img align="center" alt="Icaro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="Icaro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="right" alt="boo-gif" height= "200" src="https://i.giphy.com/media/l41lZuDtMj71VOHxS/giphy.webp">
+  <div style="display: flex">
+      <img align="center" alt="Icaro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Icaro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Icaro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+      <p>🌱 Currently learning </p>
+      <img align="center" alt="Icaro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      <img align="center" alt="Icaro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
   
   ##
