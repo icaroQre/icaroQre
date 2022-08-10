@@ -16,7 +16,7 @@
   <img align="center" alt="Ícaro-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
   
-  ### Currently learning :seedling:
+  ### Atualmente aprendendo :seedling:
   
   <div style="display: inline_block">
   <img align="center" alt="Ícaro-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
