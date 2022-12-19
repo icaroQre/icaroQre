@@ -8,6 +8,10 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroQre&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br/>
+
+### Experiência com :hammer:
+
+<br/>
 <div style="display: inline_block">
   <img align="center" alt="Ícaro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Ícaro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
