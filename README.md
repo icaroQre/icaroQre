@@ -1,5 +1,5 @@
-## Olá! Eu sou o Ícaro Queiroz ⚡
-### Estudante de Ciência da Computação pela UENP
+## Hi! I'm Ícaro Queiroz ⚡
+### Computer Science student at UENP
 
 <br/>
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 <br/>
 
-### Experiência com :hammer:
+### Experience with :gear:
 
 <br/>
 <div style="display: inline_block">
@@ -20,7 +20,7 @@
   <img align="center" alt="Ícaro-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
   
-  ### Atualmente aprendendo :seedling:
+  ### Currently learning :seedling:
   
   <div style="display: inline_block">
   <img align="center" alt="Ícaro-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
