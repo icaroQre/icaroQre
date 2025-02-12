@@ -10,9 +10,6 @@ Sou um desenvolvedor com experiência em diversas linguagens de programação e 
 
 ### [Visite meu Site pessoal aqui 💻🌐](https://my-portfolio-icaroqres-projects.vercel.app/)
 
-
-<br/>
-
 ### Experiência com :gear:
 
 <br/>
